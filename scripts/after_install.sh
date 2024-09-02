@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-sudo killall apt apt-get dpkg
+#sudo killall apt apt-get dpkg
 sudo apt-get update
 sudo apt-get update --fix-missing
 
